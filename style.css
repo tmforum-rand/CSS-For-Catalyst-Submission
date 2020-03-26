@@ -50,3 +50,7 @@
   visibility: visible;
   opacity: 1;
 }
+
+ul#topics-parent {
+  column-count: 3;
+}
